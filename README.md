@@ -21,4 +21,4 @@ EIA coal consumption and quality data, 2020-2025
 Full details are in the cleaning notes at the top of the notebook.
 
 ## Tools
-Python, pandas, numpy. [Note any AI assistance here, if you used it.]
+Python, pandas, numpy. [AI assistance from Copilot, ChatGPT, and Claude]
